@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertoMarcos
 - 👀 I’m interested in know more about new technologies related to NLP and CV
-- 🌱 I’m currently working at SNGULAR in the AI&Data department
+- 🌱 I’m currently working at SNGULAR in the AI&Data team
 - 📫 You can contact me at rmarcos89@gmail.com
 
 <!---
